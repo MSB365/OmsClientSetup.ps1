@@ -1,0 +1,6 @@
+I had to install on several servers the OMS Agent to manage the Systems in our Workspace. To go forward with this 
+request I wrote this Script witch is doing the main work for me.
+
+This Script is downloading and installing the OMS Client Agent and the Service Map Client.
+During the Script you will be asked to Enter the OMS Portal credentials for your Workspace, 
+this will be needed to register the Agent in your OMS Workspace.
